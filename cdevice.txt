@@ -1,15 +1,1 @@
 
-Interface: 192.168.4.109 --- 0xa
-  Internet Address      Physical Address      Type
-  192.168.4.1           e8-d3-eb-f5-b1-b2     dynamic   
-  192.168.4.70          00-d2-b1-bf-91-74     dynamic   
-  192.168.4.72          e0-f7-28-5d-5e-b5     dynamic   
-  192.168.4.82          a8-4a-63-96-db-a6     dynamic   
-  192.168.4.84          a8-4a-63-5b-37-6f     dynamic   
-  192.168.4.119         e6-56-27-7e-81-80     dynamic   
-  224.0.0.2             01-00-5e-00-00-02     static    
-  224.0.0.22            01-00-5e-00-00-16     static    
-  224.0.0.251           01-00-5e-00-00-fb     static    
-  224.0.0.252           01-00-5e-00-00-fc     static    
-  239.255.255.250       01-00-5e-7f-ff-fa     static    
-  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
